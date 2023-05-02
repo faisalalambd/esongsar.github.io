@@ -1,0 +1,1 @@
+<?php echo $payment  = ($_REQUEST['payment']);?>

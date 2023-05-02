@@ -1,0 +1,370 @@
+[22-Jan-2022 12:30:11 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[22-Jan-2022 12:30:17 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/esongsar.srsoftbd.xyz/config.php on line 8
+[22-Jan-2022 12:30:17 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 63
+[22-Jan-2022 12:30:17 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 64
+[22-Jan-2022 12:30:17 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 85
+[22-Jan-2022 12:30:17 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 86
+[22-Jan-2022 12:43:55 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/esongsar.srsoftbd.xyz/config.php on line 8
+[22-Jan-2022 12:43:55 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 63
+[22-Jan-2022 12:43:55 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 64
+[22-Jan-2022 12:43:55 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 85
+[22-Jan-2022 12:43:55 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 86
+[22-Jan-2022 12:44:01 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[22-Jan-2022 12:44:04 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/esongsar.srsoftbd.xyz/config.php on line 8
+[22-Jan-2022 12:44:04 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 63
+[22-Jan-2022 12:44:04 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 64
+[22-Jan-2022 12:44:04 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 85
+[22-Jan-2022 12:44:04 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 86
+[22-Jan-2022 12:44:29 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[22-Jan-2022 12:44:31 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/esongsar.srsoftbd.xyz/config.php on line 8
+[22-Jan-2022 12:44:31 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 63
+[22-Jan-2022 12:44:31 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 64
+[22-Jan-2022 12:44:31 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 85
+[22-Jan-2022 12:44:31 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 86
+[22-Jan-2022 12:46:12 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/esongsar.srsoftbd.xyz/config.php on line 8
+[22-Jan-2022 12:46:12 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 63
+[22-Jan-2022 12:46:12 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 64
+[22-Jan-2022 12:46:12 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 85
+[22-Jan-2022 12:46:12 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/register.php on line 86
+[22-Jan-2022 12:51:25 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 03:31:44 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 03:33:19 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 04:20:33 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 04:22:01 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/login.php on line 13
+[24-Jan-2022 04:22:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on bool in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/login.php:17
+Stack trace:
+#0 /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php(3): include()
+#1 {main}
+  thrown in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/login.php on line 17
+[24-Jan-2022 04:22:10 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 04:22:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/login.php on line 13
+[24-Jan-2022 04:22:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on bool in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/login.php:17
+Stack trace:
+#0 /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php(3): include()
+#1 {main}
+  thrown in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/login.php on line 17
+[24-Jan-2022 04:25:48 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 04:26:46 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 04:27:15 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 04:29:24 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 04:29:46 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 04:35:22 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 05:16:46 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 05:16:57 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:00:48 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[24-Jan-2022 06:00:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[24-Jan-2022 06:01:00 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[24-Jan-2022 06:01:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[24-Jan-2022 06:19:37 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[24-Jan-2022 06:19:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[24-Jan-2022 06:19:43 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:20:38 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:22:43 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:25:51 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[24-Jan-2022 06:25:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[24-Jan-2022 06:26:46 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[24-Jan-2022 06:26:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[24-Jan-2022 06:28:39 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:28:42 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:28:56 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:29:05 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:30:07 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:30:50 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:31:22 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:32:44 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:32:47 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:33:03 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:33:06 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:33:11 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:33:18 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:33:24 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:33:26 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:34:16 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:34:20 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:34:58 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:35:08 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:35:13 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:35:24 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:37:38 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:38:31 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:38:34 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:38:58 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:38:59 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:39:01 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:39:08 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:39:14 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:40:06 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:40:08 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:40:09 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:40:26 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:40:48 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:40:53 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:41:00 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 06:41:03 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 07:38:12 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 12:18:17 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 12:18:17 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 12:18:26 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 12:18:28 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 12:18:55 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 12:52:24 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 12:52:25 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 12:52:28 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Undefined variable: filename in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 59
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Undefined index: product_name in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 69
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Undefined index: product_type in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 71
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Undefined index: price in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 75
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Undefined index: special_price in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 77
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Undefined index: stock in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 83
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Undefined index: sku in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 85
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Undefined index: campaign in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 87
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Undefined index: description in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 89
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Undefined variable: market_name in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 99
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Undefined variable: shop_name in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 99
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Undefined variable: filename in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 99
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Undefined variable: shop_type in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 99
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[24-Jan-2022 21:19:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[24-Jan-2022 23:07:53 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 23:07:54 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 23:11:56 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Undefined variable: filename in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 59
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Undefined index: product_name in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 69
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Undefined index: product_type in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 71
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Undefined index: price in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 75
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Undefined index: special_price in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 77
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Undefined index: stock in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 83
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Undefined index: sku in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 85
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Undefined index: campaign in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 87
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Undefined index: description in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 89
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Undefined variable: market_name in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 99
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Undefined variable: shop_name in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 99
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Undefined variable: filename in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 99
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Undefined variable: shop_type in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 99
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[24-Jan-2022 23:46:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[24-Jan-2022 23:50:08 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 23:50:16 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[24-Jan-2022 23:50:17 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[25-Jan-2022 00:11:56 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[25-Jan-2022 00:11:56 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[25-Jan-2022 01:14:42 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[25-Jan-2022 01:14:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[25-Jan-2022 01:14:43 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/dashboard.php on line 46
+[25-Jan-2022 01:25:32 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/formCategory.php on line 9
+[25-Jan-2022 01:26:25 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/formCategory.php on line 9
+[25-Jan-2022 01:28:13 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/formCategory.php on line 9
+[25-Jan-2022 01:32:04 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/formCategory.php on line 9
+[25-Jan-2022 01:33:09 America/New_York] PHP Notice:  Undefined index: category_name in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/formCategory.php on line 19
+[25-Jan-2022 02:40:12 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[25-Jan-2022 02:40:14 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[25-Jan-2022 02:40:14 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[25-Jan-2022 02:40:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[25-Jan-2022 02:40:15 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[25-Jan-2022 03:52:50 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[25-Jan-2022 03:52:51 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[25-Jan-2022 03:54:07 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[25-Jan-2022 03:54:07 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[25-Jan-2022 03:54:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[25-Jan-2022 03:59:42 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[25-Jan-2022 03:59:42 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[25-Jan-2022 04:00:49 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[25-Jan-2022 04:00:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[25-Jan-2022 04:00:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[25-Jan-2022 04:02:36 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[25-Jan-2022 04:02:37 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[25-Jan-2022 04:03:02 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[25-Jan-2022 04:03:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Undefined variable: filename in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 59
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Undefined index: product_name in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 69
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Undefined index: product_type in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 71
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Undefined index: price in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 75
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Undefined index: special_price in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 77
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Undefined index: stock in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 83
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Undefined index: sku in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 85
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Undefined index: campaign in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 87
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Undefined index: description in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 89
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Undefined variable: market_name in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 99
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Undefined variable: shop_name in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 99
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Undefined variable: filename in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 99
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Undefined variable: shop_type in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 99
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[25-Jan-2022 09:26:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[25-Jan-2022 09:27:12 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[25-Jan-2022 09:27:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[25-Jan-2022 09:27:16 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[25-Jan-2022 09:27:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[25-Jan-2022 09:28:32 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[25-Jan-2022 09:28:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[06-Feb-2022 06:48:25 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[06-Feb-2022 06:48:25 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[06-Feb-2022 07:12:19 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[06-Feb-2022 07:12:23 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[06-Feb-2022 07:12:40 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[06-Feb-2022 07:12:41 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/login_failed.php on line 7
+[06-Feb-2022 07:16:47 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/login_failed.php on line 7
+[06-Feb-2022 07:16:48 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[06-Feb-2022 08:09:27 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[06-Feb-2022 08:09:27 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[07-Feb-2022 01:03:41 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 01:03:42 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 01:03:54 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 01:05:28 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 01:06:34 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 01:06:34 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/login_failed.php on line 7
+[07-Feb-2022 01:06:42 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 01:06:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 01:06:57 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 01:07:18 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/login_failed.php on line 7
+[07-Feb-2022 01:07:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 01:07:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 01:07:21 America/New_York] PHP Notice:  Undefined index: login_user in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[07-Feb-2022 01:07:21 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[07-Feb-2022 01:07:24 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 04:11:16 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 04:14:22 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:19:19 America/New_York] PHP Notice:  Undefined index: category_name in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/formCategory.php on line 12
+[07-Feb-2022 04:21:31 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 04:21:31 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:23:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:23:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:24:50 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:24:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:25:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:25:38 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 04:25:46 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:25:53 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 04:25:53 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 04:25:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:25:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[07-Feb-2022 04:25:54 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 04:25:55 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:25:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[07-Feb-2022 04:26:35 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 04:26:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:26:57 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 04:26:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:27:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:28:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:30:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:31:27 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 04:31:27 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:32:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:35:33 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 04:35:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:35:34 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 04:35:34 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:37:40 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:37:40 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/dashboard.php on line 74
+[07-Feb-2022 04:38:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:38:35 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/dashboard.php on line 74
+[07-Feb-2022 04:39:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:39:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:40:30 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:40:44 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:45:02 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:45:48 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 04:45:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 04:47:17 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 05:00:23 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 05:00:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 05:00:24 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[07-Feb-2022 05:06:47 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 05:28:18 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 05:28:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[07-Feb-2022 05:28:20 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[07-Feb-2022 05:28:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[07-Feb-2022 05:29:09 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[07-Feb-2022 05:29:09 America/New_York] PHP Notice:  Undefined variable: market_name in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 99
+[07-Feb-2022 05:29:09 America/New_York] PHP Notice:  Undefined variable: shop_name in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 99
+[07-Feb-2022 05:29:09 America/New_York] PHP Notice:  Undefined variable: shop_type in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 99
+[07-Feb-2022 05:29:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[07-Feb-2022 05:31:17 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 05:31:28 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[07-Feb-2022 05:31:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[10-Feb-2022 00:34:10 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[10-Feb-2022 00:34:10 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[10-Feb-2022 00:36:34 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[10-Feb-2022 00:39:19 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[10-Feb-2022 00:39:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[10-Feb-2022 01:00:49 America/New_York] PHP Notice:  Undefined index: text in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[19-Feb-2022 03:27:25 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[19-Feb-2022 03:27:26 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[19-Feb-2022 03:29:37 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[19-Feb-2022 03:29:38 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 03:32:40 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[19-Feb-2022 03:32:50 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[19-Feb-2022 03:32:50 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 04:08:50 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[19-Feb-2022 04:08:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[19-Feb-2022 04:08:50 America/New_York] PHP Warning:  Undefined variable $market_name in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 110
+[19-Feb-2022 04:08:50 America/New_York] PHP Warning:  Undefined variable $shop_name in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 110
+[19-Feb-2022 04:08:50 America/New_York] PHP Warning:  Undefined variable $shop_type in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/confirm_product.php on line 110
+[19-Feb-2022 04:08:50 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 6
+[19-Feb-2022 04:08:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 11
+[19-Feb-2022 04:09:46 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[19-Feb-2022 04:15:01 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[19-Feb-2022 04:15:01 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 05:20:10 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[19-Feb-2022 05:23:43 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[19-Feb-2022 05:23:55 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[19-Feb-2022 05:23:56 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 05:37:08 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 05:40:07 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 05:47:00 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 05:49:09 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[19-Feb-2022 05:49:09 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 05:56:03 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 05:56:12 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 05:57:03 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 05:57:17 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 05:57:22 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 05:58:25 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 05:58:31 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 05:58:33 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 05:58:40 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 06:10:38 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[19-Feb-2022 06:10:38 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 23:23:52 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[19-Feb-2022 23:23:52 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[19-Feb-2022 23:24:12 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[19-Feb-2022 23:24:12 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/login_failed.php on line 7
+[19-Feb-2022 23:24:49 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/login_failed.php on line 7
+[19-Feb-2022 23:24:50 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/login_failed.php on line 7
+[19-Feb-2022 23:25:42 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/login_failed.php on line 7
+[19-Feb-2022 23:25:42 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 23:27:55 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 23:29:03 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 23:34:37 America/New_York] PHP Warning:  Undefined array key "due" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/payment.php on line 4
+[19-Feb-2022 23:35:18 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 23:35:23 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[19-Feb-2022 23:56:10 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[22-Feb-2022 04:18:05 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[22-Feb-2022 04:18:05 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[22-Feb-2022 04:28:31 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[22-Feb-2022 07:42:14 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[22-Feb-2022 07:42:16 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[22-Feb-2022 07:42:28 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[22-Feb-2022 07:45:17 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[22-Feb-2022 07:47:06 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[22-Feb-2022 07:49:41 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[22-Feb-2022 07:59:35 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[22-Feb-2022 08:00:29 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[22-Feb-2022 08:00:41 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[22-Feb-2022 08:00:44 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[22-Feb-2022 08:01:56 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[22-Feb-2022 08:01:57 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/session.php on line 4
+[01-Mar-2022 00:55:34 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[01-Mar-2022 00:55:35 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[02-Mar-2022 23:45:40 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[02-Mar-2022 23:45:41 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[02-Mar-2022 23:45:45 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[13-Mar-2022 06:27:12 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[13-Mar-2022 06:28:32 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
+[13-Mar-2022 06:29:11 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/esongsar.srsoftbd.xyz/vendor/index.php on line 7
